@@ -1,3 +1,8 @@
+
+## Authors
+
+- [@Saurabh kumar pandey](https://github.com/saurabh175/Internetfolks_assignment)
+
 Shopping Cart Discount Calculator
 Overview
 This simple Node.js script calculates discounts and fees for a shopping cart based on predefined rules. It prompts the user to input product quantities and whether each product should be gift-wrapped. After processing the inputs, it displays product details, discounts applied, and the final total.
@@ -41,3 +46,20 @@ Discount Applied: op1 - $10
 Gift Wrap Fee: $6
 Total: $206
 Shipping Fee: $15
+### Installation
+
+
+### Prerequisites
+
+Make sure you have the following installed on your machine:
+
+- [Node.js](https://nodejs.org/)
+- [MongoDB](https://www.mongodb.com/try/download/community)
+- [Postman](https://www.postman.com/)
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/yourusername/your-repo.git
+cd your-repo
+npm install
