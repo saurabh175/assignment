@@ -17,7 +17,7 @@ Navigate to the project directory:
 
 bash
 Copy code
-cd shopping-cart-discount
+cd assignment
 Install dependencies:
 
 bash
