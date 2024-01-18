@@ -9,7 +9,7 @@ This simple Node.js script calculates discounts and fees for a shopping cart bas
 
 How to Use
 Clone the repository:
-
+```bash
 bash
 Copy code
 git clone https://github.com/saurabh175/assignment
@@ -32,7 +32,7 @@ Follow the prompts to enter product quantities and gift-wrapping preferences.
 
 Discount Rules
 The script uses predefined discount rules, such as percentage discounts for total amounts or specific products. These rules can be customized in the options object within the script.
-
+```
 Example Output
 plaintext
 Copy code
@@ -46,20 +46,3 @@ Discount Applied: op1 - $10
 Gift Wrap Fee: $6
 Total: $206
 Shipping Fee: $15
-### Installation
-
-
-### Prerequisites
-
-Make sure you have the following installed on your machine:
-
-- [Node.js](https://nodejs.org/)
-- [MongoDB](https://www.mongodb.com/try/download/community)
-- [Postman](https://www.postman.com/)
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/your-repo.git
-cd your-repo
-npm install
